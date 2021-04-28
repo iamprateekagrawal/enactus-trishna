@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/enactus-trishna/static/css/main.af441277.chunk.css",
+    "main.js": "/enactus-trishna/static/js/main.6827b160.chunk.js",
+    "main.js.map": "/enactus-trishna/static/js/main.6827b160.chunk.js.map",
+    "runtime-main.js": "/enactus-trishna/static/js/runtime-main.4a39f65e.js",
+    "runtime-main.js.map": "/enactus-trishna/static/js/runtime-main.4a39f65e.js.map",
+    "static/js/2.b4a3e4af.chunk.js": "/enactus-trishna/static/js/2.b4a3e4af.chunk.js",
+    "static/js/2.b4a3e4af.chunk.js.map": "/enactus-trishna/static/js/2.b4a3e4af.chunk.js.map",
+    "static/js/3.023a998a.chunk.js": "/enactus-trishna/static/js/3.023a998a.chunk.js",
+    "static/js/3.023a998a.chunk.js.map": "/enactus-trishna/static/js/3.023a998a.chunk.js.map",
+    "index.html": "/enactus-trishna/index.html",
+    "static/css/main.af441277.chunk.css.map": "/enactus-trishna/static/css/main.af441277.chunk.css.map",
+    "static/js/2.b4a3e4af.chunk.js.LICENSE.txt": "/enactus-trishna/static/js/2.b4a3e4af.chunk.js.LICENSE.txt",
+    "static/media/about_us1.61e79b33.png": "/enactus-trishna/static/media/about_us1.61e79b33.png",
+    "static/media/about_us2.2c5bfe2b.png": "/enactus-trishna/static/media/about_us2.2c5bfe2b.png",
+    "static/media/App.css": "/enactus-trishna/static/media/bg-image.662e2ef6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a39f65e.js",
+    "static/js/2.b4a3e4af.chunk.js",
+    "static/css/main.af441277.chunk.css",
+    "static/js/main.6827b160.chunk.js"
+  ]
+}
